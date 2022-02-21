@@ -1,0 +1,5 @@
+apikeys.py
+__pycache__/
+.~*
+Makefile
+scratch.py

@@ -1,0 +1,66 @@
+bezirk,key,ortsteil,lat,lng,query,place_type,place_id,name,addr,place_lat,place_lng
+Mitte,101,Mitte,52.5372897,13.360274300000002,street market,,ChIJhX6bwAxRqEcRkZurgyAaAMU,Arminius Market Hall,"Arminiusstraße 2-4, 10551 Berlin, Germany",52.52780629999999,13.3386608
+Mitte,101,Mitte,52.5372897,13.360274300000002,street market,,ChIJ32eWBCJOqEcRlmJO0gkkR9E,Asia Market Lee GmbH,"Dircksenstraße 101-103, 10179 Berlin, Germany",52.5190242,13.4149089
+Mitte,101,Mitte,52.5372897,13.360274300000002,street market,,ChIJ99S8mv9QqEcRZxIPBXtoDro,Bikini Berlin,"Budapester Str. 38-50, 10787 Berlin, Germany",52.5057288,13.3346547
+Mitte,101,Mitte,52.5372897,13.360274300000002,street market,,ChIJOZG7315OqEcRVs8ZP5sx0mQ,Boxhagener Platz,"Grünberger Str. 75, 10245 Berlin, Germany",52.5109507,13.4597037
+Mitte,101,Mitte,52.5372897,13.360274300000002,street market,,ChIJ_SKT7opOqEcR-kwMRzlB104,EDEKA Rigaer street,"Rigaer Str. 44, 10247 Berlin, Germany",52.5156423,13.4683183
+Mitte,101,Mitte,52.5372897,13.360274300000002,street market,,ChIJ-4YNDQtRqEcRAXPeBWbA4ks,Go Asia Berlin-Mitte,"Turmstraße 29, 10551 Berlin, Germany",52.52659269999999,13.3418573
+Mitte,101,Mitte,52.5372897,13.360274300000002,street market,,ChIJpU9lbv5QqEcRi2P-1X1gkno,Hit Ullrich Consumer market,"Kantstraße 7, 10623 Berlin, Germany",52.506343,13.3313101
+Mitte,101,Mitte,52.5372897,13.360274300000002,street market,,ChIJnbNuyRhPqEcRUIN-creCDbw,Holzmarkt,"Holzmarktstraße 19, 10243 Berlin, Germany",52.5112384,13.4271123
+Mitte,101,Mitte,52.5372897,13.360274300000002,street market,,ChIJYb9yIlRQqEcR7A7Zwwy7q-0,Kaufhaus des Westens,"Tauentzienstraße 21-24, 10789 Berlin, Germany",52.5016021,13.340993
+Mitte,101,Mitte,52.5372897,13.360274300000002,street market,,ChIJ8TbTJwJOqEcRvPFwPGvwmMw,Kollwitzplatz,"Kollwitzstraße 1, 10405 Berlin, Germany",52.5363177,13.4169339
+Mitte,101,Mitte,52.5372897,13.360274300000002,street market,,ChIJ7aVia_lQqEcRXRIgdsB4UFA,Lidl,"Meinekestraße 22, 10719 Berlin, Germany",52.501633,13.3293071
+Mitte,101,Mitte,52.5372897,13.360274300000002,street market,,ChIJMUj5z85RqEcRJFWt9uG8OZ8,Mall of Berlin,"Leipziger Pl. 12, 10117 Berlin, Germany",52.5105259,13.3808092
+Mitte,101,Mitte,52.5372897,13.360274300000002,street market,,ChIJi8XB0NlPqEcRGxxtloPjBz4,Marheineke Markthalle,"Marheinekepl. 15, 10961 Berlin, Germany",52.48933,13.394788
+Mitte,101,Mitte,52.5372897,13.360274300000002,street market,,ChIJvaZWgElOqEcRElWjL2P9AZg,Markthalle Neun,"Eisenbahnstraße 42/43, 10997 Berlin, Germany",52.50197679999999,13.4317228
+Mitte,101,Mitte,52.5372897,13.360274300000002,street market,,ChIJ1_ttSoBRqEcR4RgreyYTPoM,dm-drogerie markt,"Müllerstraße 153a-154, 13353 Berlin, Germany",52.5458443,13.3596581
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJrzhg285RqEcRCrcEtu4XG5I,ALDI,"Mall of Berlin, Leipziger Pl. 12, 10117 Berlin",52.5101265,13.3808652
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJ1QtBFr1RqEcRdovvLZRzEWc,ALDI,"Invalidenstraße 59, 10557 Berlin",52.5242957,13.3639832
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJuSStkhBOqEcRGegZQ_nYIwE,ALDI Berlin-Friedrichshain,"Weinstraße 9, 10249 Berlin",52.52625339999999,13.4264679
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJBwowZ4lRqEcRM7EkazmsRg0,ALDI Berlin-Gesundbrunnen,"Gerichtstraße 2-3, 13347 Berlin",52.542454,13.378045
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJeR5kMjBOqEcRcJjqBMMfYKg,ALDI Berlin-Mitte,"Heinrich-Heine-Platz 8-12, 10179 Berlin",52.5065797,13.416298
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJnzsLNYNRqEcRs2yPhgzaI8A,ALDI Berlin-Moabit,"Friedrich-Krause-Ufer 37 - 38, 13353 Berlin",52.5376445,13.3569289
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJm95akk5QqEcROfFuFWFhYt8,EDEKA,"Nollendorfpl. 8-9, 10777 Berlin",52.4988828,13.3545909
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJ2y578VNQqEcRIBWlH5hMyzk,EDEKA,"Wittenbergpl. 4, 10789 Berlin",52.5026332,13.343827
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJX3zVB9dTqEcRxgS7v4lhFig,EDEKA Fromm,"Müllerstraße 127, 13349 Berlin",52.5526436,13.3475541
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJH0CL4PtRqEcRwU1E3Fzrmkg,EDEKA Fürstenberger Straße,"Fürstenberger Str. 8, 10435 Berlin",52.5376491,13.4051619
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJV16OSJNRqEcRpJUFdhOKHHQ,EDEKA Sapphire,"Chausseestraße 43, 10115 Berlin",52.5341895,13.3788828
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJpxxhBA9RqEcRDYMaMAsyWck,EDEKA Simon,"Levetzowstraße 10, 10555 Berlin",52.5208719,13.3342743
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJhd-ZeSFSqEcRIWLSchbdNWw,Eurogida Badstraße,"Badstraße 9, 13357 Berlin",52.5501546,13.385974
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJ_VI_DA1RqEcRFZdwPlVgPDs,Eurogida Moabit,"Turmstraße 43, 10551 Berlin",52.527054,13.3347751
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJX0Mmkc9RqEcR0bH4Q4qkC-k,Hit Ullrich,"Mohrenstraße 69, 10117 Berlin",52.5118375,13.3838511
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJ3z5s5B9OqEcRNhTDwzwxE-M,Kaufland Berlin-Mitte,"Parkplatz über Rochstraße zu erreichen, Karl-Liebknecht-Str. 13, 10178 Berlin",52.5224195,13.4071117
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJ62nCoepRqEcRBsra7l-Nq18,Lidl,"Luisenstraße 52, 10117 Berlin",52.5245101,13.3795398
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJmbp8HiZOqEcRbKKAwF5KDY8,Lidl,"Heinrich-Heine-Straße 30, 10179 Berlin",52.5066011,13.4125713
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJS5p1GdRRqEcRzoMvYJZBdkM,Lidl,"Leipziger Str. 42, 10117 Berlin",52.5105042,13.3950109
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJsdfdf_VRqEcRMPDVJQtLOJ0,Lidl,"Brunnenstraße 87, 13355 Berlin",52.5445528,13.3916214
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJpeHVvSRSqEcRZ_-_N1xRZnw,Lidl,"Prinzenallee 75, 13357 Berlin",52.55533,13.38246
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJE6BP_iNSqEcR5oYgbIsbLuM,Lidl,"Badstraße 60, 13357 Berlin",52.5509487,13.3832753
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJQV7cfoVNqEcRfcFSoabxm9A,Lidl,"Choriner Str. 64/64a, 10435 Berlin",52.5345926,13.4081298
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJbfOwoylSqEcRx7tfyLI4sCg,Lidl,"Reinickendorfer Str. 41, 13347 Berlin",52.5493923,13.36935
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJFaAtf51RqEcRit2Jmk8We48,Lidl,"Quitzowstraße 23, 10559 Berlin",52.5357745,13.3527166
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJwUx4jhROqEcRFtwMHSdmp9Q,Lidl,"Müllerstraße 48/48a, 13349 Berlin",52.5524938,13.3501086
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJS5p1GdRRqEcRMGOCkuBOXC0,Lidl,"Charlottenstraße 2, 10969 Berlin",52.50523399999999,13.3931736
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJDQShG6NRqEcRXNHQYjXYAKk,PENNY,"Alt-Moabit 9, 10557 Berlin",52.5238118,13.3584578
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJia1T6tVTqEcR-MAjgIKxpM4,PENNY,"Müllerstraße 40, 13353 Berlin",52.5500878,13.3532818
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJx1fseTtSqEcR4pzCgZ6LShw,PENNY,"Prinzenallee 55-56, 13359 Berlin",52.5585351,13.385771
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJeZ0RHcNRqEcRZfunLIjlWuY,REWE,"Friedrichstraße 100, 10117 Berlin",52.5204582,13.3885876
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJmQtpiOBRqEcRqBjTGY_LvHI,REWE,"Litfaß-Platz 4, 10178 Berlin",52.522141,13.4034651
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJBUEJietRqEcRM-_HFj_aQig,REWE,"Chausseestraße 118-120, 10115 Berlin",52.5295301,13.3841341
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJ_TCi_hJRqEcRk7fVfl3V1cc,REWE,"Turmstraße 60, 10551 Berlin",52.5276423,13.3291754
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJKykEKEpQqEcRJv29rjPz4z4,REWE,"Potsdamer Straße 128, 10783 Berlin",52.4991379,13.3621876
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJozX6XTNOqEcRt6tYet0AmsY,REWE,"Skalitzer Str. 134, 10999 Berlin",52.49937250000001,13.4187919
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJ-8sDhdpRqEcRp062PKUWqo0,REWE City,"Friedrichstraße 67-70, 10117 Berlin",52.51261539999999,13.3905721
+Mitte,101,Mitte,52.5372897,13.360274300000002,supermarket,supermarket,ChIJ6_iV89BRqEcRCr5Ntbe5cLA,Rewe City,"Friedrichstraße 60, 10117 Berlin",52.5105977,13.3901443
+Mitte,102,Moabit,52.530782900000005,13.3471759,street market,,ChIJO6VWDYBRqEcRzPLmwVojiAI,Leopoldplatz,"Leopoldplatz 1, 13353 Berlin, Germany",52.5475193,13.3598859
+Mitte,102,Moabit,52.530782900000005,13.3471759,street market,,ChIJC05cKAtRqEcRTZfle3uIPBk,Schultheiss Quartier,"Turmstraße 25, 10559 Berlin, Germany",52.5274517,13.3438874
+Mitte,102,Moabit,52.530782900000005,13.3471759,supermarket,supermarket,ChIJ76lpgBVRqEcRTAE7ZrhTqUc,Aldi,"Huttenstraße 41 - 44, 10553 Berlin",52.5284687,13.317857
+Mitte,102,Moabit,52.530782900000005,13.3471759,supermarket,supermarket,ChIJFQRno4dRqEcRAM9ENuLmI4I,Bolu,"Reinickendorfer Str. 108, 13347 Berlin",52.5453878,13.3691171
+Mitte,102,Moabit,52.530782900000005,13.3471759,supermarket,supermarket,ChIJ3VpndIJRqEcRgTMWE1jdkcE,EDEKA Schatz,"Sprengelstraße 37, 13353 Berlin",52.5415643,13.3555916
+Mitte,102,Moabit,52.530782900000005,13.3471759,supermarket,supermarket,ChIJdUYr2XJRqEcRW-O-peJOxh8,EDEKA Vaupel,"Wiclefstraße 60-62, 10551 Berlin",52.53013,13.3372101
+Mitte,102,Moabit,52.530782900000005,13.3471759,supermarket,supermarket,ChIJbxwFKGZRqEcRdn7lr6G238E,Kaufland Berlin-Moabit,"Perleberger Str. 42a, 10559 Berlin",52.528441,13.3439151
+Mitte,102,Moabit,52.530782900000005,13.3471759,supermarket,supermarket,ChIJSf7gdQpRqEcR_gx9eu_Cs60,LPG BioMarkt,"Alt-Moabit 98, 10559 Berlin",52.5237332,13.3462742
+Mitte,102,Moabit,52.530782900000005,13.3471759,supermarket,supermarket,ChIJI4B4qyxSqEcRZNnnHhCAWyE,Netto Filiale,"Gerichtstraße 60-61, 13347 Berlin",52.5439705,13.3707039
+Mitte,102,Moabit,52.530782900000005,13.3471759,supermarket,supermarket,ChIJz_sXfRJRqEcRACl-UDx3IQU,PENNY-Markt Discounter,"Turmstraße 68-69, 10551 Berlin",52.5268494,13.3318091
+Mitte,102,Moabit,52.530782900000005,13.3471759,supermarket,supermarket,ChIJbyaoEghRqEcRQCzKsqoIIEA,REWE,"Bartningallee 3, 10557 Berlin",52.5186796,13.34269
+Mitte,102,Moabit,52.530782900000005,13.3471759,supermarket,supermarket,ChIJrxglfA1RqEcRjzUZeIfN-IM,REWE,"Turmstraße 48, 10551 Berlin",52.52718309999999,13.3329052
